@@ -1,36 +1,33 @@
 # Hi, I'm Kelly 👋
 
-### Data Analyst | SQL • Python • Excel • Power BI | Aspiring Data Engineer
+### Data Analyst | SQL • Python • Power BI | Aspiring Data Engineer
 
 I’m a Data Analyst focused on turning raw, messy data into clear insights that support better business decisions.
 
 I work with **SQL, Python (Pandas), Excel, Google Sheets, and Power BI** for data cleaning, analysis, reporting, dashboards, and automation.
 
-Currently expanding into **Data Engineering**, with a focus on ETL, data pipelines, and workflow automation.
+Currently expanding into **Data Engineering**, with a focus on ETL, data pipelines, automation, and data workflows.
+
+I also have experience with **DevOps and development tools**, which I’m using to strengthen my data engineering journey.
 
 ---
 
 ## 🛠️ Skills
 
-- **Languages:** SQL, Python
-- **Data:** Pandas, Excel, Google Sheets
+- **Data:** SQL, Python, Pandas, Excel, Google Sheets
 - **BI & Visualization:** Power BI
-- **Learning:** ETL, Data Pipelines, Automation
-
----
-
-### 🗄️ SQL Business Questions
-Used SQL to answer business questions around **customer churn, repeat purchases, and product performance** using an e-commerce dataset.
-
-### ⚙️ Weekly Report Automator
-Built a Python/Pandas workflow to clean raw exports and automate weekly report generation.
+- **Data Engineering:** ETL, Data Pipelines, Automation
+- **DevOps:** Git, Linux, CI/CD, Docker
+- **Currently Learning:** Data Engineering & Cloud Technologies
 
 ---
 
 ## 🚀 Currently
 
 - Building Data Engineering skills
-- Creating practical data projects
+- Developing ETL and data pipeline projects
+- Improving Python and SQL skills
+- Exploring automation and cloud technologies
 - Taking on freelance Data Analysis projects
 
 ---
@@ -43,4 +40,4 @@ Built a Python/Pandas workflow to clean raw exports and automate weekly report g
 
 ---
 
-**Open to freelance data analysis, dashboards, reporting, and automation projects.**
+**Open to freelance data analysis, dashboards, reporting, automation, and data projects.**
