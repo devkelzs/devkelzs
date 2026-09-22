@@ -2,90 +2,45 @@
 
 ### Data Analyst | SQL • Python • Excel • Power BI | Aspiring Data Engineer
 
-I’m a **Data Analyst** who enjoys turning messy, raw data into clean, meaningful insights that help businesses make better decisions.
+I’m a Data Analyst focused on turning raw, messy data into clear insights that support better business decisions.
 
-I work with **SQL, Python, Excel, Google Sheets, and Power BI** to clean data, automate repetitive tasks, build dashboards, and answer business questions with data.
+I work with **SQL, Python (Pandas), Excel, Google Sheets, and Power BI** for data cleaning, analysis, reporting, dashboards, and automation.
 
-I’m currently expanding my skills into **Data Engineering**, with a focus on ETL, data pipelines, workflow automation, and building reliable data workflows.
+Currently expanding into **Data Engineering**, with a focus on ETL, data pipelines, and workflow automation.
 
 ---
 
-## 🔧 Tech Stack
+## 🛠️ Skills
 
-### Data Analysis & Programming
-- 🐍 Python — Pandas
-- 🗄️ SQL
-- 📊 Excel
-- 📑 Google Sheets
+- **Languages:** SQL, Python
+- **Data:** Pandas, Excel, Google Sheets
+- **BI & Visualization:** Power BI
+- **Learning:** ETL, Data Pipelines, Automation
 
-### Visualization & BI
-- 📈 Power BI
-- 📊 Excel Dashboards
-
-### Currently Learning
-- 🔄 ETL & ELT
-- ⚙️ Data Pipelines
-- 🤖 Workflow Automation
-- 🏗️ Data Engineering Fundamentals
 ---
 
 ### 🗄️ SQL Business Questions
-**SQL • Business Analysis • E-commerce Data**
-
-Used SQL to answer practical business questions using a public e-commerce dataset, including:
-
-- Customer churn risk
-- Repeat customer rate
-- Product performance
-- Product bundling opportunities
-
-The project focuses on turning raw database records into **actionable business insights**.
-
----
+Used SQL to answer business questions around **customer churn, repeat purchases, and product performance** using an e-commerce dataset.
 
 ### ⚙️ Weekly Report Automator
-**Python • Pandas • Automation**
-
-Built a Python workflow that cleans raw data exports and automatically generates a formatted weekly report.
-
-**Goal:** Reduce repetitive manual reporting and create a more consistent reporting process.
+Built a Python/Pandas workflow to clean raw exports and automate weekly report generation.
 
 ---
 
-## 🚀 What I'm Currently Doing
+## 🚀 Currently
 
-- 📚 Building hands-on **Data Engineering** skills
-- 🔄 Learning ETL and data pipeline concepts
-- 🐍 Developing more Python automation projects
-- 📊 Building practical analytics projects for my portfolio
-- 💼 Taking on freelance **Data Analysis** projects on Upwork
-
----
-
-## 💼 Let's Work Together
-
-I'm available for freelance projects involving:
-
-- 🧹 Data Cleaning & Preparation
-- 📊 Data Analysis
-- 📈 Dashboard Development
-- 📑 Excel & Google Sheets Reporting
-- 🗄️ SQL Analysis
-- 🐍 Python Data Automation
-- 🔄 ETL & Data Workflow Projects
+- Building Data Engineering skills
+- Creating practical data projects
+- Taking on freelance Data Analysis projects
 
 ---
 
 ## 📫 Connect With Me
 
-### LinkedIn
-[linkedin.com/in/ankiambom-kelly-5944b92a9](https://www.linkedin.com/in/ankiambom-kelly-5944b92a9)
+**LinkedIn:** [Ankiambom Kelly](https://www.linkedin.com/in/ankiambom-kelly-5944b92a9)
 
-### Upwork
-[View my Upwork profile](https://www.upwork.com/freelancers/~0103009258ce99da8e?mp_source=share)
+**Upwork:** [My Upwork Profile](https://www.upwork.com/freelancers/~0103009258ce99da8e)
 
 ---
 
-### 📌 Open to freelance data projects, collaborations, and opportunities to solve real-world problems with data.
-
-**Turning raw data into insights, and insights into better decisions.**
+**Open to freelance data analysis, dashboards, reporting, and automation projects.**
